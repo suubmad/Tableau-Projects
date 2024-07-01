@@ -1,5 +1,9 @@
 # Tableau-Projects
 
+ - Video Games Sales Visualization
+    - https://public.tableau.com/app/profile/berkay.en/viz/VideoGamesSalesVisualization_17198460788420/SimpleDash
+
+-----------------------------------------------
 
   - 2023-24 Turkish Super Lig: Alanyaspor - Samsunspor Shot Maps
     - https://public.tableau.com/app/profile/berkay.en/viz/Alanyaspor-SamsunsporShotMaps/Dashboard1
